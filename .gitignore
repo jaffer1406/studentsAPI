@@ -1,0 +1,8 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/studentsAPI.sln
+/.vs/studentsAPI
+/studentsAPI.csproj.user
+/obj
